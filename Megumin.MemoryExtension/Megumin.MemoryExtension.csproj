@@ -31,7 +31,7 @@
   
   <!--依赖配置-->
   <ItemGroup>
-    <PackageReference Include="System.Memory" Version="4.5.2" />
+    <PackageReference Include="System.Memory" Version="4.5.3" />
   </ItemGroup>
   
   <!--以下是项目通用配置-->
